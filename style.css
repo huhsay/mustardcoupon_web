@@ -1,0 +1,42 @@
+#wrap{
+  text-align: center;
+  background-color: rgb(9, 28, 155);
+  padding:5px;
+  color:white;
+  }
+
+  #side{
+    width:200px;
+    height:700px;
+    border-right:1px solid gray;
+    float:left;
+  }
+
+ol{
+    list-style:none;
+    padding: 0;
+  }
+
+  #contents{
+    width: 500px;
+    padding: 10px;
+    float:left;
+  }
+
+  a{
+    text-decoration: none;
+    color: inherit;
+  }
+
+  #control{
+    float: right;
+  }
+  body.white{
+    background-color:white;
+    color:black;
+  }
+
+  body.black{
+    background-color:black;
+    color:white;
+  }
